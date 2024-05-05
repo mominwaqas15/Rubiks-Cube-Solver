@@ -1,5 +1,7 @@
 # Rubik's Cube Solver
 
+<img src="output.png" alt="Results of All models" width="500">
+
 ## Overview
 This project aims to solve the Rubik's Cube puzzle using the Iterative Deepening A* (IDA*) search algorithm. The solver employs a heuristic function to estimate the distance from the current state of the cube to the goal state. It utilizes a Python implementation of the Rubik's Cube and IDA* algorithm.
 
